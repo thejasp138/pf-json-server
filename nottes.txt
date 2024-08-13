@@ -1,0 +1,27 @@
+->nodemon -a node.js tool for realtimme realoding of running program based on changes
+
+            npm i -g nodemon
+
+
+
+->EventEmittter - event
+->the process object provides information about,and control over ,the current Node.js process
+
+            -enviromental variables
+            -.env
+                DATABASE="defwrf"
+            -process.env.DATABASE
+
+
+->Farmework  :express.js
+        npm i express
+
+
+->CROS :Cross Origin Resource Shering 
+    npm i Cros
+
+->DOTENV  - a packge for loding   .env content into process object
+
+
+
+
